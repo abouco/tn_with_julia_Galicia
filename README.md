@@ -55,3 +55,7 @@ You need to write `Pkg.add(url="https://github.com/starsfordummies/ITransverse.j
 Observers.jl
 
 If you are in the `Pkg` mode you need to write `add Observers` else you need to write `Pkg.add("Observers")`
+
+JLD2.jl -> Package that allows you to save data with certain sctucture.
+
+If you are in the `Pkg` mode you need to write `add JLD2` else you need to write `Pkg.add("JLD2")`
